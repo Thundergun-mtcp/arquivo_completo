@@ -1,0 +1,14 @@
+body {
+  background-color: #f0f0f0; /* Um cinza claro */
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#mensagem {
+  color: darkred; /* Cor do texto mudará para vermelho escuro */
+  font-size: 20px;
+}
+
+h1 {
+  color: #007acc; /* Cor azul para o título */
+}
